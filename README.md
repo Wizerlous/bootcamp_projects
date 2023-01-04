@@ -12,3 +12,5 @@ Welearn 10 sprints during 4 month program.
 - Intro to Python
 - Essential Python for Data Analyst
 - Dashboard
+
+All my project for now have sprint 08 and 09 i will update later.
